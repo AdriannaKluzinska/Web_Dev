@@ -1,0 +1,21 @@
+/* Write your code here: */
+
+h1, h2{ /* element, element */
+    color: palevioletred;
+}
+
+div > p{  /* rodzic > dziecko */
+    color: firebrick;
+}
+
+.box li {  /* .klasa elemnt (li)  */
+    color: blue;
+}
+
+li.done{ /* element.klasa */
+    color: seagreen;
+}
+
+ul p.done{ /* element element.klasa */
+    font-size: 0.5rem;
+}
